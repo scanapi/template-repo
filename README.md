@@ -1,2 +1,5 @@
-# template-repo
-A repository to be used as a template to create other repos
+![](https://github.com/scanapi/design/raw/master/images/github-hero-dark.png)
+
+# Repository Name
+
+Repository description
